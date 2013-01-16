@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>de.carl-ambroselli.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>de.carl-ambroselli.${PRODUCT_NAME:rfc1034identifier}Tutorial</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

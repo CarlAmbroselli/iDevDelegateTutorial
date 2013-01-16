@@ -7,6 +7,7 @@
 //
 
 #import "iDevAppDelegate.h"
+#import "iDevTableViewController.h"
 
 @implementation iDevAppDelegate
 
@@ -15,6 +16,10 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+    
+    iDevTableViewController *main = [[iDevTableViewController alloc] initWithNibName:@"iDevTableViewController" bundle:nil];
+    self.window.rootViewController = main;
+    
     [self.window makeKeyAndVisible];
     return YES;
 }

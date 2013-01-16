@@ -16,22 +16,32 @@
 		6A30C51C16A708BA00560BBF /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A30C51B16A708BA00560BBF /* Default.png */; };
 		6A30C51E16A708BA00560BBF /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A30C51D16A708BA00560BBF /* Default@2x.png */; };
 		6A30C52016A708BA00560BBF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A30C51F16A708BA00560BBF /* Default-568h@2x.png */; };
+		6A30C52916A708D100560BBF /* iDevTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A30C52716A708D100560BBF /* iDevTableViewController.m */; };
+		6A30C52A16A708D100560BBF /* iDevTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6A30C52816A708D100560BBF /* iDevTableViewController.xib */; };
+		6A30C52E16A70A3A00560BBF /* iDevMagicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A30C52C16A70A3900560BBF /* iDevMagicViewController.m */; };
+		6A30C52F16A70A3A00560BBF /* iDevMagicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6A30C52D16A70A3900560BBF /* iDevMagicViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6A30C50516A708BA00560BBF /* iDeveloperDelegates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDeveloperDelegates.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A30C50516A708BA00560BBF /* iDeveloperDelegatesTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDeveloperDelegatesTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A30C50916A708BA00560BBF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		6A30C50B16A708BA00560BBF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6A30C50D16A708BA00560BBF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		6A30C51116A708BA00560BBF /* iDeveloperDelegates-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iDeveloperDelegates-Info.plist"; sourceTree = "<group>"; };
+		6A30C51116A708BA00560BBF /* iDeveloperDelegatesTutorial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iDeveloperDelegatesTutorial-Info.plist"; sourceTree = "<group>"; };
 		6A30C51316A708BA00560BBF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A30C51516A708BA00560BBF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6A30C51716A708BA00560BBF /* iDeveloperDelegates-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iDeveloperDelegates-Prefix.pch"; sourceTree = "<group>"; };
+		6A30C51716A708BA00560BBF /* iDeveloperDelegatesTutorial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iDeveloperDelegatesTutorial-Prefix.pch"; sourceTree = "<group>"; };
 		6A30C51816A708BA00560BBF /* iDevAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iDevAppDelegate.h; sourceTree = "<group>"; };
 		6A30C51916A708BA00560BBF /* iDevAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iDevAppDelegate.m; sourceTree = "<group>"; };
 		6A30C51B16A708BA00560BBF /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		6A30C51D16A708BA00560BBF /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		6A30C51F16A708BA00560BBF /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		6A30C52616A708D100560BBF /* iDevTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iDevTableViewController.h; sourceTree = "<group>"; };
+		6A30C52716A708D100560BBF /* iDevTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iDevTableViewController.m; sourceTree = "<group>"; };
+		6A30C52816A708D100560BBF /* iDevTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iDevTableViewController.xib; sourceTree = "<group>"; };
+		6A30C52B16A70A3900560BBF /* iDevMagicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iDevMagicViewController.h; sourceTree = "<group>"; };
+		6A30C52C16A70A3900560BBF /* iDevMagicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iDevMagicViewController.m; sourceTree = "<group>"; };
+		6A30C52D16A70A3900560BBF /* iDevMagicViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iDevMagicViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +70,7 @@
 		6A30C50616A708BA00560BBF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6A30C50516A708BA00560BBF /* iDeveloperDelegates.app */,
+				6A30C50516A708BA00560BBF /* iDeveloperDelegatesTutorial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -80,6 +90,12 @@
 			children = (
 				6A30C51816A708BA00560BBF /* iDevAppDelegate.h */,
 				6A30C51916A708BA00560BBF /* iDevAppDelegate.m */,
+				6A30C52616A708D100560BBF /* iDevTableViewController.h */,
+				6A30C52716A708D100560BBF /* iDevTableViewController.m */,
+				6A30C52816A708D100560BBF /* iDevTableViewController.xib */,
+				6A30C52B16A70A3900560BBF /* iDevMagicViewController.h */,
+				6A30C52C16A70A3900560BBF /* iDevMagicViewController.m */,
+				6A30C52D16A70A3900560BBF /* iDevMagicViewController.xib */,
 				6A30C51016A708BA00560BBF /* Supporting Files */,
 			);
 			path = iDeveloperDelegates;
@@ -88,10 +104,10 @@
 		6A30C51016A708BA00560BBF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6A30C51116A708BA00560BBF /* iDeveloperDelegates-Info.plist */,
+				6A30C51116A708BA00560BBF /* iDeveloperDelegatesTutorial-Info.plist */,
 				6A30C51216A708BA00560BBF /* InfoPlist.strings */,
 				6A30C51516A708BA00560BBF /* main.m */,
-				6A30C51716A708BA00560BBF /* iDeveloperDelegates-Prefix.pch */,
+				6A30C51716A708BA00560BBF /* iDeveloperDelegatesTutorial-Prefix.pch */,
 				6A30C51B16A708BA00560BBF /* Default.png */,
 				6A30C51D16A708BA00560BBF /* Default@2x.png */,
 				6A30C51F16A708BA00560BBF /* Default-568h@2x.png */,
@@ -102,9 +118,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6A30C50416A708BA00560BBF /* iDeveloperDelegates */ = {
+		6A30C50416A708BA00560BBF /* iDeveloperDelegatesTutorial */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6A30C52316A708BA00560BBF /* Build configuration list for PBXNativeTarget "iDeveloperDelegates" */;
+			buildConfigurationList = 6A30C52316A708BA00560BBF /* Build configuration list for PBXNativeTarget "iDeveloperDelegatesTutorial" */;
 			buildPhases = (
 				6A30C50116A708BA00560BBF /* Sources */,
 				6A30C50216A708BA00560BBF /* Frameworks */,
@@ -114,9 +130,9 @@
 			);
 			dependencies = (
 			);
-			name = iDeveloperDelegates;
+			name = iDeveloperDelegatesTutorial;
 			productName = iDeveloperDelegates;
-			productReference = 6A30C50516A708BA00560BBF /* iDeveloperDelegates.app */;
+			productReference = 6A30C50516A708BA00560BBF /* iDeveloperDelegatesTutorial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +145,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Carl Ambroselli";
 			};
-			buildConfigurationList = 6A30C4FF16A708BA00560BBF /* Build configuration list for PBXProject "iDeveloperDelegates" */;
+			buildConfigurationList = 6A30C4FF16A708BA00560BBF /* Build configuration list for PBXProject "iDeveloperDelegatesTutorial" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -141,7 +157,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6A30C50416A708BA00560BBF /* iDeveloperDelegates */,
+				6A30C50416A708BA00560BBF /* iDeveloperDelegatesTutorial */,
 			);
 		};
 /* End PBXProject section */
@@ -155,6 +171,8 @@
 				6A30C51C16A708BA00560BBF /* Default.png in Resources */,
 				6A30C51E16A708BA00560BBF /* Default@2x.png in Resources */,
 				6A30C52016A708BA00560BBF /* Default-568h@2x.png in Resources */,
+				6A30C52A16A708D100560BBF /* iDevTableViewController.xib in Resources */,
+				6A30C52F16A70A3A00560BBF /* iDevMagicViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +185,8 @@
 			files = (
 				6A30C51616A708BA00560BBF /* main.m in Sources */,
 				6A30C51A16A708BA00560BBF /* iDevAppDelegate.m in Sources */,
+				6A30C52916A708D100560BBF /* iDevTableViewController.m in Sources */,
+				6A30C52E16A70A3A00560BBF /* iDevMagicViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,9 +258,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iDeveloperDelegates/iDeveloperDelegates-Prefix.pch";
-				INFOPLIST_FILE = "iDeveloperDelegates/iDeveloperDelegates-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iDeveloperDelegates/iDeveloperDelegatesTutorial-Prefix.pch";
+				INFOPLIST_FILE = "iDeveloperDelegates/iDeveloperDelegatesTutorial-Info.plist";
+				PRODUCT_NAME = iDeveloperDelegatesTutorial;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -249,9 +269,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iDeveloperDelegates/iDeveloperDelegates-Prefix.pch";
-				INFOPLIST_FILE = "iDeveloperDelegates/iDeveloperDelegates-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iDeveloperDelegates/iDeveloperDelegatesTutorial-Prefix.pch";
+				INFOPLIST_FILE = "iDeveloperDelegates/iDeveloperDelegatesTutorial-Info.plist";
+				PRODUCT_NAME = iDeveloperDelegatesTutorial;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -259,7 +279,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6A30C4FF16A708BA00560BBF /* Build configuration list for PBXProject "iDeveloperDelegates" */ = {
+		6A30C4FF16A708BA00560BBF /* Build configuration list for PBXProject "iDeveloperDelegatesTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6A30C52116A708BA00560BBF /* Debug */,
@@ -268,7 +288,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6A30C52316A708BA00560BBF /* Build configuration list for PBXNativeTarget "iDeveloperDelegates" */ = {
+		6A30C52316A708BA00560BBF /* Build configuration list for PBXNativeTarget "iDeveloperDelegatesTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6A30C52416A708BA00560BBF /* Debug */,
